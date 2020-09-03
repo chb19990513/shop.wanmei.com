@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chb19990513/shop.wanmei.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chb19990513/shop.wanmei.com/issues"
+  },
+  "homepage": "https://github.com/chb19990513/shop.wanmei.com#readme"
 }
