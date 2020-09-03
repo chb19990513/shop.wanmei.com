@@ -1,0 +1,32 @@
+body,p,ul,ol,dl,dt,dd,li,h1,h2,h3,h4,h5,h6,form,input,fieldset,legend,select,textarea,figure{
+    margin:0;padding:0
+}
+body{
+    font:12px "Microsoft YaHei",Verdana,Geneva,sans-serif,\5b8b\4f53;
+}
+b,i,em,strong,del,ins,a,u{
+    font-style:normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+li{list-style-type: none;}
+
+img{display: block;}
+
+.clearfix:after{
+    content:"";
+    display: block;
+    clear: both;
+    height:0;
+    overflow:hidden;
+    visibility: hidden;
+}
+.f_left{
+    float: left;
+}
+.f_right{
+    float: right;
+}
+a{
+    color: #000;
+}
